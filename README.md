@@ -1,4 +1,4 @@
-Project Name: Buld Ease
+Project Name: Custom Crafters
 Capstone Project
 Run - npm run dev  
   
